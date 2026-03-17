@@ -1,5 +1,6 @@
 name: Build documentation, check links, spelling, grammar, and style
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
