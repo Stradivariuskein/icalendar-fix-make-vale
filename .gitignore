@@ -24,7 +24,7 @@ venv
 /docs/styles/Microsoft/
 /ical_fuzzer.pkg.spec
 /src/icalendar/_version.py
-#uv.lock
+uv.lock
 coverage.xml
 !.coveragerc
 !.well-known
